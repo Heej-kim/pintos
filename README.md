@@ -1,6 +1,6 @@
 # pintos
 
-#SETTINGS
+# SETTINGS
  
 Virutalbox, ubuntu 20.04 TLS
 gcc4.4, bochs-2.6.11
