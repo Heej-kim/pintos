@@ -1,3 +1,5 @@
+https://web.stanford.edu/class/cs140/projects/pintos/pintos.html
+
 # SETTINGS
  
 Virutalbox, ubuntu 20.04 TLS.
